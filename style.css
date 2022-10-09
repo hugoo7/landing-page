@@ -1,8 +1,81 @@
 p{
-    color: blueviolet;
-    height: 54px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+padding: 20px;
+font-size: 30px;
+font-weight: 400;
 }
-h1{
+    .p1{
+        background-color: black;
+        border-radius: 20px;
+        color: white;
+        text-align: center;
+        font-size: 100px;
+        }
+
+
+
+        .présentation{
+        display: flex; justify-content: center;
+        font-size: 25px;
+        height: 600px;
+        padding-top: 100px;
+        font-weight: 400;
+        }
+            h1{
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                text-align: center;
+        }
+              
+            .img1{
+                width: 10%;
+                padding : 150px;
+
+                }
+.images{
     text-align: center;
-    height: 40px;
+    
 }
+        .listecaractéristiques{
+            display: flex;
+            justify-content: space-around;
+            margin: 50px;
+            margin-bottom: 100px;
+            
+            
+        }
+            .zone{
+                background-color: black;
+                color: white;
+                border-radius: 20px;
+                font-size: 20px; 
+                text-align: center;
+            }
+    .nogozone{
+        font-weight: 10px;
+        font-size: 25px;
+        padding: 75px;
+    }
+
+
+    .reservoir{
+    font-size: 40px;
+    text-align: center;
+    padding: 50px;
+}
+
+
+    .lavable{
+        font-size: 30px;
+        text-align: center;
+    }
+
+
+        .propreté{
+            width: 10%;
+            text-align: center;
+        }
+
+
+                .logo{
+                    width: 9%;
+                }
